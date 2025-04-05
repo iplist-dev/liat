@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/iplist-dev/srt/refs/heads/main/HMN-545.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs"
+https://cloud.hownetwork.xyz/xxx/0a14ed030ccdd00397b0347aec261d2e/3/480.m3u8
